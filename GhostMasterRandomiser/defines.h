@@ -1,0 +1,2 @@
+
+#define HAUNTER_PUZZLE_HACK
